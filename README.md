@@ -1,0 +1,2 @@
+# point_cloud_registration_tested
+a new repository for testing the robust_point_cloud_registration
